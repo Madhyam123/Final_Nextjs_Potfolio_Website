@@ -1,9 +1,10 @@
 import React from 'react';
 import styles from './style.css';
-
+import Link from 'next/link';
 const index = () => {
   return (
     <div>
+      <Link href='/'><button>Back</button></Link>
   <h1>List of All Projects</h1>
 <div className="ag-format-container">
   <div className="ag-courses_box">
