@@ -1,0 +1,153 @@
+@keyframes colorchange {
+    0% {
+        color: #0052D4;
+    }
+
+    10% {
+        color: aqua;
+    }
+
+    20% {
+        color: yellow;
+    }
+
+    30% {
+        color: chartreuse;
+    }
+
+    40% {
+        color: orangered;
+    }
+
+    50% {
+        color: darkorange;
+    }
+
+    60% {
+        color: green;
+    }
+
+    70% {
+        color: tomato;
+    }
+
+    80% {
+        color: #5433FF;
+    }
+
+    90% {
+        color: mediumspringgreen;
+    }
+
+    100% {
+        color: white;
+    }
+
+}
+
+@keyframes colorchange1 {
+    0% {
+        color: chartreuse;
+    }
+
+    10% {
+        color: maroon;
+    }
+
+    20% {
+        color: darkorange;
+    }
+
+    30% {
+        color: #0052D4;
+    }
+
+    40% {
+        color: orangered;
+    }
+
+    50% {
+
+        color: yellow;
+    }
+
+    60% {
+        color: #5433FF;
+    }
+
+    70% {
+        color: gold;
+    }
+
+    80% {
+        color: white;
+    }
+
+    90% {
+        color: chocolate;
+    }
+
+    100% {
+        color: rgb(29, 36, 249);
+    }
+}
+
+@keyframes colorchange2 {
+    0% {
+        color: rgb(25, 159, 221);
+    }
+
+    10% {
+        color: rgb(135, 212, 10);
+    }
+
+    20% {
+        color: rgb(210, 12, 220);
+    }
+
+    30% {
+        color: #d0e208;
+    }
+
+    40% {
+        color: rgb(76, 25, 216);
+    }
+
+    50% {
+
+        color: rgb(7, 113, 39);
+    }
+
+    60% {
+        color: white;
+    }
+
+    70% {
+        color: rgb(227, 84, 13);
+    }
+
+    80% {
+        color: rgb(216, 19, 65);
+    }
+
+    90% {
+        color: rgb(30, 195, 210);
+    }
+
+    100% {
+        color: rgb(142, 163, 18);
+    }
+}
+
+.color{
+    animation: colorchange 2s infinite;
+}
+.color1{
+    animation: colorchange1 2s infinite;
+}
+.color2{
+    animation: colorchange2 2s infinite ease-in-out;
+}
+.para{
+    color: #5433FF;
+}

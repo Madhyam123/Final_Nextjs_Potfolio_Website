@@ -1,0 +1,12 @@
+@media (max-width:600px) {
+    .main{
+        padding: 4% 4%;
+        width: 100vw;
+        overflow-x: hidden;
+        height: 500vh;
+        overflow-y: scroll;
+    }
+    .main{
+     scroll-behavior: smooth;
+    }
+}

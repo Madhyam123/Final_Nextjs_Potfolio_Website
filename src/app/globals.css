@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    margin: 0px;
+    overflow: hidden; /* Hide scrollbars */
+    cursor: wait;
+    width: 100vw;
+    height: max-content;
+}
+@media (max-width:800px) {
+    body{
+        overflow: visible;
+    }
+}
+@media (max-width:1200px) {
+    body{
+        overflow: visible;
+    }
+}
