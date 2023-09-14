@@ -100,9 +100,11 @@ export default function Home() {
         })
       }
     </div>
+    <Link href='/project'>
     <Rounded>
       <p>More work</p>
     </Rounded>
+    </Link>
     <>
         <motion.div ref={modalContainer} variants={scaleAnimation} initial="initial" animate={active ? "enter" : "closed"} className={styles.modalContainer}>
             <div style={{top: index * -100 + "%"}} className={styles.modalSlider}>
