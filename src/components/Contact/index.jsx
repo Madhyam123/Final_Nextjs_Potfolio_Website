@@ -4,7 +4,7 @@ import Rounded from '../../common/RoundedButton';
 import { useRef } from 'react';
 import { useScroll, motion, useTransform, useSpring } from 'framer-motion';
 import Magnetic from '../../common/Magnetic';
-
+import Link from 'next/link';
 function Index() {
     const container = useRef(null);
     const { scrollYProgress } = useScroll({
@@ -38,13 +38,17 @@ function Index() {
                         <path d="M8 8.5C8.27614 8.5 8.5 8.27614 8.5 8L8.5 3.5C8.5 3.22386 8.27614 3 8 3C7.72386 3 7.5 3.22386 7.5 3.5V7.5H3.5C3.22386 7.5 3 7.72386 3 8C3 8.27614 3.22386 8.5 3.5 8.5L8 8.5ZM0.646447 1.35355L7.64645 8.35355L8.35355 7.64645L1.35355 0.646447L0.646447 1.35355Z" fill="white"/>
                     </motion.svg>
                 </div>
-                <div className={styles.nav}>
+                 <div className={styles.nav}>
+                    <Link href="mailto:madhyambharati@gmail.com">
                         <Rounded>
                             <p>madhyambharati@gmail.com</p>
                         </Rounded>
+                        </Link>
+                        <Link href="https://wa.me/7021644253">
                         <Rounded>
                             <p className={styles.no}>+7021644253</p>
                         </Rounded>
+                        </Link>
                 </div>
                 <div className={styles.info}>
                     {/* <div>
