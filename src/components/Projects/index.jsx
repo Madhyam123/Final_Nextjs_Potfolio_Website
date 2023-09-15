@@ -11,7 +11,7 @@ import Link from 'next/link';
 const projects = [
   {
     title: "ECOMMERCE WEBSITE",
-    src: "image 4.png",
+    src: "ecom.png",
     stack: "TECH STACK 1.REACT 2.TAILWINDCSS 3.REDUX 4.OUTH 5.STRIPE",
     Feature:"Features-1.React redux state management 2.Outh authentication 3.React chart admin dashboard 4.Stripe Payment Gateway",
     color: "#000000",
