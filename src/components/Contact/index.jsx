@@ -41,12 +41,12 @@ function Index() {
                 <div className={styles.nav}>
                     <Link href="mailto:madhyambharati@gmail.com">
                         <Rounded>
-                            <p>madhyambharati@gmail.com</p>
+                            <p style={{textDecoration: 'none'}}>madhyambharati@gmail.com</p>
                         </Rounded>
                         </Link>
                         <Link href="https://wa.me/7021644253">
                         <Rounded>
-                            <p className={styles.no}>+7021644253</p>
+                            <p style={{textDecoration: 'none'}} className={styles.no}>+7021644253</p>
                         </Rounded>
                         </Link>
                 </div>
