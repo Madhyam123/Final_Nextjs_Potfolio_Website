@@ -13,6 +13,7 @@ body{
 @media (max-width:800px) {
     body{
         overflow: visible;
+        width: 100vw;
     }
 }
 @media (max-width:1200px) {
