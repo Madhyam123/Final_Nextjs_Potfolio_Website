@@ -7,7 +7,7 @@ export default function index({index, title,stack,Feature, manageModal,href}) {
     return (
         <div onMouseEnter={(e) => {manageModal(true, index, e.clientX, e.clientY)}} onMouseLeave={(e) => {manageModal(false, index, e.clientX, e.clientY)}} className={styles.project}>
             <h2>{title}</h2>
-            { window.innerWidth > 800 ? (
+            { Window.innerWidth > 800 ? (
             <div>
             <h3>{stack}</h3>
             <h5>{Feature}</h5>
