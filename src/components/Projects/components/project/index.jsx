@@ -15,7 +15,6 @@ export default function index({index, title,stack,Feature, manageModal,href}) {
             <div>
              <Link href={href}><button  style={{backgroundColor:"#455CE9",padding:"6px",borderRadius:"20px"}}>View</button></Link>
             </div>
-            )}
         </div>
     )
 }
