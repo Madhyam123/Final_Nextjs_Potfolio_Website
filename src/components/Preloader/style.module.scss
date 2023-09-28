@@ -48,6 +48,17 @@
         }
     }
 }
+@media (max-width:600px) {
+    .introduction{
+        width: 100vw;
+        padding: 0px;
+        overflow: hidden;
+        z-index: 9;
+        overflow-x: hidden;
+        margin: 0px;
+    }
+}
+
 @media (max-width:900px) {
     .introduction{
         width: 100vw;
