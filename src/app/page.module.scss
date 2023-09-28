@@ -11,3 +11,15 @@
     }
 }
 
+@media (max-width:900px) {
+    .main{
+        padding: 0% 0%;
+        width: 100vw;
+        overflow-x: hidden;
+        min-height: 500vh;
+        overflow-y: scroll;
+    }
+    .main{
+     scroll-behavior: smooth;
+    }
+}
