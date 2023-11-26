@@ -61,7 +61,7 @@ function Index() {
                             <p>11:49 PM GMT+2</p>
                         </span>
                     </div> */}
-                    {window.innerWidth>900 ?(
+{/*                     {window.innerWidth>900 ?( */}
                     <div className={styles.pd}>
                         <span>
                             <h3>socials</h3>
@@ -79,9 +79,9 @@ function Index() {
                             <h3 className="bg-red-500">Linkedin</h3>    
                         </Magnetic>
                     </div>
-                    ):(<div>
+                   <div>
                        
-                    </div>)}
+                    </div>
                 </div>
             </div>
         </motion.div>
