@@ -41,7 +41,16 @@ const projects = [
     Feature:"Features-1.Animation 2.Best User Interface 3.Smooth Scroll 4.Onscroll effects",
     color: "#706D63",
     href:"https://madhyamecommercesite.netlify.app/"
-  }
+  },
+  {
+    title: "AI DRIVEN DAHSBAORD WEBSITE",
+    src: "datahack.png",
+    stack: "TECH STACK 1.Streamlit 2.Web scripping 3.Pandas 4.Excel 5.Python",
+    Feature:"Features-1.Visvalized Dashboard 2.AI startup stocks graps 3.Pased 5 year history of stock 4.User driven Input",
+    color: "#000000",
+    href:"https://ai-startups.streamlit.app/"
+  
+  },
 ]
 
 const scaleAnimation = {
