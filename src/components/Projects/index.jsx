@@ -35,14 +35,6 @@ const projects = [
     href:"https://madhyamecommercesite.netlify.app/"
   },
   {
-    title: "Silencio",
-    src: "silencio.png",
-    stack: "TECH STACK 1.HTML 2.CSS 3.JAVASCRIPT 4.GSAP 5.LOCOMOTIVE SCROLL",
-    Feature:"Features-1.Animation 2.Best User Interface 3.Smooth Scroll 4.Onscroll effects",
-    color: "#706D63",
-    href:"https://madhyamecommercesite.netlify.app/"
-  },
-  {
     title: "AI DRIVEN DAHSBAORD",
     src: "datahack.png",
     stack: "TECH STACK 1.Streamlit 2.Web scripping 3.Pandas 4.Excel 5.Python",
