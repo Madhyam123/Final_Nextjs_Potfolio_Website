@@ -101,7 +101,7 @@ export default function Home() {
         })
       }
     </div>
-    <Link href='/project'>
+    <Link style={{textDecoration: 'none'}} href='/project'>
     <Rounded>
       <p>More work</p>
     </Rounded>
