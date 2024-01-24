@@ -39,12 +39,12 @@ function Index() {
                     </motion.svg>
                 </div>
                 <div className={styles.nav}>
-                    <Link href="mailto:madhyambharati@gmail.com">
+                    <Link style={{textDecoration: 'none'}} href="mailto:madhyambharati@gmail.com">
                         <Rounded>
                             <p style={{textDecoration: 'none'}}>madhyambharati@gmail.com</p>
                         </Rounded>
                         </Link>
-                        <Link href="https://wa.me/7021644253">
+                        <Link style={{textDecoration: 'none'}} href="https://wa.me/7021644253">
                         <Rounded>
                             <p style={{textDecoration: 'none'}} className={styles.no}>7021644253</p>
                         </Rounded>
