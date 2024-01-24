@@ -76,7 +76,7 @@ function Index() {
                             <p>Medium</p>
                         </Magnetic>
                         <Magnetic>
-                            <p>Linkedin<p>    
+                            <p>Linkedin</p>    
                         </Magnetic>
                     </div>
                    <div>
