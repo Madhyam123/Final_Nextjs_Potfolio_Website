@@ -64,7 +64,7 @@ function Index() {
 {/*                     {window.innerWidth>900 ?( */}
                     <div className={styles.pd}>
                         <span>
-                            <p>socials<p>
+                            <p>socials</p>
                             <Magnetic>
                                 <p>Resume</p>
                             </Magnetic>
