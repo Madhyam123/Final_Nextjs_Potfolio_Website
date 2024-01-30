@@ -35,7 +35,7 @@ const projects = [
     href:"https://madhyamecommercesite.netlify.app/"
   },
   {
-    title: "AI DRIVEN DAHSBAORD",
+    title: "AI DRIVEN DASHBOARD",
     src: "datahack.png",
     stack: "TECH STACK 1.Streamlit 2.Web scripping 3.Pandas 4.Excel 5.Python",
     Feature:"Features-1.Visvalized Dashboard 2.AI startup stocks graps 3.Pased 5 year history of stock 4.User driven Input",
