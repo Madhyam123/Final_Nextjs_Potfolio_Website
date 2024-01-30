@@ -14,7 +14,7 @@ const projects = [
     src: "ecom.png",
     stack: "TECH STACK 1.REACT 2.TAILWINDCSS 3.REDUX 4.OUTH 5.STRIPE",
     Feature:"Features-1.React redux state management 2.Outh authentication 3.React chart admin dashboard 4.Stripe Payment Gateway",
-    color: "#000000->#3A6073",
+    color: "#28ac8f",
     href:"https://madhyamecommercesite.netlify.app/"
   
   },
@@ -23,7 +23,7 @@ const projects = [
     src: "image 4.png",
     stack: "TECH STACK 1.HTML 2.CSS 3.JAVASCRIPT 4.GSAP 5.LOCOMOTIVE SCROLL",
     Feature:"Features-1.Animation 2.Best User Interface 3.Smooth Scroll 4.Onscroll effects",
-    color: "#8C8C8C",
+    color: "#c571f9",
     href:"https://madhyammachine.netlify.app/"
   },
   {
@@ -31,7 +31,7 @@ const projects = [
     src: "safety.png",
     stack: "TECH STACK 1.REACT 2.TAILWINDCSS 3.Netlify 4.Apexchart.js ",
     Feature:"Features-1.AI Chatbot for helpline 2.Interative UI with Signin and Signout Feature 3.React chart of Statistics 4.BMI calculator",
-    color: "#3D85C6",
+    color: "#2f76cf",
     href:"https://roaring-swan-3293ca.netlify.app/"
   },
   {
@@ -39,7 +39,7 @@ const projects = [
     src: "ai_dashboard.png",
     stack: "TECH STACK 1.Streamlit 2.Web scripping 3.Pandas 4.Excel 5.Python",
     Feature:"Features-1.Visvalized Dashboard 2.AI startup stocks graps 3.Pased 5 year history of stock 4.User driven Input",
-    color: "#F08080",
+    color: "#b34c68",
     href:"https://ai-startups.streamlit.app/"
   
   },
