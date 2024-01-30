@@ -27,19 +27,19 @@ const projects = [
     href:"https://madhyammachine.netlify.app/"
   },
   {
-    title: "Locomotive",
-    src: "locomotive.png",
-    stack: "TECH STACK 1.REACT 2.TAILWINDCSS 3.REDUX 4.OUTH 5.STRIPE",
-    Feature:"Features-1.React redux state management 2.Outh authentication 3.React chart admin dashboard 4.Stripe Payment Gateway",
-    color: "#EFE8D3",
-    href:"https://madhyamecommercesite.netlify.app/"
+    title: "Heath and Safety at Workplace",
+    src: "safety.png",
+    stack: "TECH STACK 1.REACT 2.TAILWINDCSS 3.Netlify 4.Apexchart.js ",
+    Feature:"Features-1.AI Chatbot for helpline 2.Interative UI with Signin and Signout Feature 3.React chart of Statistics 4.BMI calculator",
+    color: "#3D85C6",
+    href:"https://roaring-swan-3293ca.netlify.app/"
   },
   {
     title: "AI DRIVEN DASHBOARD",
-    src: "datahack.png",
+    src: "ai_dashboard.png",
     stack: "TECH STACK 1.Streamlit 2.Web scripping 3.Pandas 4.Excel 5.Python",
     Feature:"Features-1.Visvalized Dashboard 2.AI startup stocks graps 3.Pased 5 year history of stock 4.User driven Input",
-    color: "#0FCAB6",
+    color: "#F08080",
     href:"https://ai-startups.streamlit.app/"
   
   },
