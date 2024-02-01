@@ -48,7 +48,7 @@ const projects = [
     src: "framer.png",
     stack: "TECH STACK 1.Framer 2.Google Font 3.Open Graph ",
     Feature:"Features-1.Visvalized Dashboard 2.Static User Interface ",
-    color: "#b34c68",
+    color: "#CCFF00",
     href:"https://breathtaking-walkthroughs-516471.framer.app/"
   
   },
