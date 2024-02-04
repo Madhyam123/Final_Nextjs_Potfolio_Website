@@ -78,17 +78,17 @@
     
 }
 
-@media (max-width:300px){
+@media (max-width:400px){
       .modalContainer{
         height: 200px;
         width: 200px;
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        background-color: white;
-        pointer-events: none;
-        overflow: hidden;
-        z-index: 3;
+        // position: fixed;
+        // top: 50%;
+        // left: 50%;
+        // background-color: white;
+        // pointer-events: none;
+        // overflow: hidden;
+        // z-index: 3;
     }
 }
 
