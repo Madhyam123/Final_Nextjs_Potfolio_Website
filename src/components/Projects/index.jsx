@@ -53,7 +53,7 @@ const projects = [
   
   },
      {
-    title: "FIGPRO COLLABORATIVE TOOL",
+    title: "FIGPRO COLLABORATIVE DESIGN TOOL",
     src: "figpro.png",
     stack: "TECH STACK 1.Nextjs 2.Liveblock 3.TypeScript 4.Shadcn 5.Nodes 6.Tailwindcss  ",
     Feature:"Features-1.Multiple Users can work Simultaneously 2.Usrs can make shapes edit color and add text of different Font and save in pdf ",
