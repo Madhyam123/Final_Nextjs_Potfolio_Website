@@ -43,7 +43,7 @@
     }
     
     .modal{
-        height: 150%;
+        height: 100%;
         width: 100%;
         display: flex;
         align-items: center;
@@ -51,7 +51,7 @@
     }
     
     .modal img{
-        height: auto;
+        height: 100%;
     }
     
     .cursor, .cursorLabel{
