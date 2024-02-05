@@ -114,7 +114,7 @@ export default function Home() {
     <div className={styles.body}>
       {
         projects.map( (project, index) => {
-          return <Link className={styles.name} href={project.href}><Project  href={project.href}  index={index} title={project.title} stack={project.stack} 
+          return <Link className={styles.name} target="_blank" href={project.href}><Project  href={project.href}  index={index} title={project.title} stack={project.stack} 
           Feature={project.Feature} manageModal={manageModal} key={index}  /></Link>
         })
       }
